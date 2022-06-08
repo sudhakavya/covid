@@ -1,0 +1,14 @@
+[
+  {
+    "Name": "covid-19-vaccine-proof",
+    "Language": "English",
+    "BaseURL": "https://github.com/microsoft/Azure-Solution-Accelerator-to-automate-COVID-19-Vaccination-Proof-and-Test-Verification-Forms",
+    "Files": [
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/microsoft/Azure-Solution-Accelerator-to-automate-COVID-19-Vaccination-Proof-and-Test-Verification-Forms/main/README.md",
+        "Order": 1
+      }
+
+    ]
+  }
+]
